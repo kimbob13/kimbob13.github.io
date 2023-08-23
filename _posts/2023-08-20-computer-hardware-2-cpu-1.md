@@ -165,6 +165,10 @@ _명령어 사이클 (Load 부분은 빠져있음)_
 
 긴 글 읽어주셔서 감사합니다.
 
+> 언제나 그렇지만 오류나 오해의 소지가 있는 내용이 있다면 언제든 알려주시면 감사하겠습니다. <br>
+> 최대한 정확한 설명을 지향하지만 설명을 간소화 하다 보니 이상한 부분이 분명 있을 것이라 생각합니다.<br>
+{: .prompt-info }
+
 ---
 
 [^1]: 엄밀히 말하면 이 개념을 폰 노이만이 소개했다고 보기는 어렵다고 합니다. 폰 노이만의 이름으로 발표된 것은 맞지만, 이 개념 자체를 처음 제시한 것은 [에커트](https://en.wikipedia.org/wiki/J._Presper_Eckert)와 [모클리](https://en.wikipedia.org/wiki/John_Mauchly)라는 사람들이었는데, 발표되는 과정에서 이들의 이름이 누락되는 다소 복잡한 역사가 있습니다. 다음 글들을 참고하시면 좋을 것 같습니다. [영어](https://en.wikipedia.org/wiki/Von_Neumann_architecture#Development_of_the_stored-program_concept), [한국어](https://blog.wishket.com/it%ED%98%81%EB%AA%85%EC%9D%98-%EC%98%81%EC%9B%85%EB%93%A4-%EC%84%B8%EA%B3%84-%EC%B5%9C%EC%B4%88%EC%9D%98-%EB%B2%94%EC%9A%A9-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%97%90%EB%8B%88%EC%95%85%EC%9D%98-%EA%B0%9C/)
