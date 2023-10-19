@@ -46,6 +46,7 @@ order: 4
         - Python
     - Basic
         - Rust
+        - Lua
         - C++
         - CUDA
 
