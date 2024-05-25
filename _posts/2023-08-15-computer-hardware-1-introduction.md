@@ -4,7 +4,7 @@ date: 2023-08-15 17:40:00 +0900
 author: kimbob13
 categories: [컴퓨터, 하드웨어]
 tags: [computer, hardware]
-img_path: /assets/img/2023-08-15/computer-hardware-1-introduction
+media_subpath: /assets/img/2023-08-15/computer-hardware-1-introduction
 ---
 
 ## 들어가며

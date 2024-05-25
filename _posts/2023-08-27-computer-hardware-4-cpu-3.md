@@ -4,7 +4,7 @@ date: 2023-08-27 18:20:00 +0900
 author: kimbob13
 categories: [컴퓨터, 하드웨어]
 tags: [computer, hardware, cpu]
-img_path: /assets/img/2023-08-27/computer-hardware-4-cpu-3
+media_subpath: /assets/img/2023-08-27/computer-hardware-4-cpu-3
 ---
 
 ## 1. 노스브리지 (Northbridge)와 사우스브리지 (Southbridge)

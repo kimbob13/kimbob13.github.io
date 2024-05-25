@@ -4,7 +4,7 @@ date: 2023-10-19 22:00:00 +0900
 author: kimbob13
 categories: [컴퓨터, 하드웨어]
 tags: [computer, hardware, memory]
-img_path: /assets/img/2023-10-19/computer-hardware-6-memory-2
+media_subpath: /assets/img/2023-10-19/computer-hardware-6-memory-2
 math: true
 ---
 

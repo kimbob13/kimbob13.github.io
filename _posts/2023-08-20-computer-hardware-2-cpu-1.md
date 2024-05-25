@@ -4,7 +4,7 @@ date: 2023-08-20 11:50:00 +0900
 author: kimbob13
 categories: [컴퓨터, 하드웨어]
 tags: [computer, hardware, cpu]
-img_path: /assets/img/2023-08-20/computer-hardware-2-cpu-1
+media_subpath: /assets/img/2023-08-20/computer-hardware-2-cpu-1
 ---
 
 ## 개요
