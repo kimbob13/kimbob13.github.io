@@ -20,7 +20,9 @@ order: 4
 <span style="font-size: 1.2em">**Firmware Engineer** </span><br>
 파두(FADU) &nbsp;&nbsp;|&nbsp;&nbsp; 2023.05 - 현재
 
-- NAND 인터페이스 마이크로 코드 개발
+- NAND 인터페이스 마이크로 코드 기능 개발
+- NAND 인터페이스에서의 SSD 성능 최적화
+- NAND 불량 분석을 위한 GUI 프로그램 개발 (Electron.js with Vue.js)
 
 <span style="font-size: 1.2em">**AI Content Developer** </span><br>
 엘리스(Elice) &nbsp;&nbsp;|&nbsp;&nbsp; 2021.08 - 2023.04
@@ -44,22 +46,26 @@ order: 4
     - Proficient
         - C
         - Python
+    - Intermediate
+      - Rust
+      - JavaScript / TypeScript
     - Basic
-        - Rust
         - Lua
         - C++
         - CUDA
+
+- <span style="font-size: 1.2em">Library / Framework</span>
+  - Machine Learning / Data Science
+    - [PyTorch](https://pytorch.org/), [Tensorflow](https://www.tensorflow.org/), [scikit-learn](https://scikit-learn.org/)
+    - [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/)
+    - [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
+  - Web
+    - [Electron.js](https://www.electronjs.org/)
+    - [Vue.js](https://vuejs.org/), [Vuetify](https://vuetifyjs.com/en/)
+    - [Chart.js](https://www.chartjs.org/)
 
 - <span style="font-size: 1.2em">Tools</span>
     - Vim (Neovim)
     - Linux (shell commands)
     - Git
     - Docker
-
-- <span style="font-size: 1.2em">Library</span>
-    - PyTorch
-    - Tensorflow (Keras)
-    - Numpy
-    - Pandas
-    - Scikit-learn
-    - Matplotlib, Seaborn
