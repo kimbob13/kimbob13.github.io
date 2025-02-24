@@ -18,7 +18,10 @@ order: 4
 ## Work Experience
 
 <span style="font-size: 1.2em">**Firmware Engineer** </span><br>
-파두(FADU) &nbsp;&nbsp;|&nbsp;&nbsp; 2023.05 - 현재
+엑시나 (XCENA) &nbsp;&nbsp;|&nbsp;&nbsp; 2025.02 - 현재
+
+<span style="font-size: 1.2em">**Firmware Engineer** </span><br>
+파두(FADU) &nbsp;&nbsp;|&nbsp;&nbsp; 2023.05 - 2025.02
 
 - NAND 인터페이스 마이크로 코드 기능 개발
 - NAND 인터페이스에서의 SSD 성능 최적화
