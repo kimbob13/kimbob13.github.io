@@ -18,7 +18,12 @@ order: 4
 ## Work Experience
 
 <span style="font-size: 1.2em">**Firmware Engineer** </span><br>
-엑시나 (XCENA) &nbsp;&nbsp;|&nbsp;&nbsp; 2025.02 - 현재
+엑시나 (XCENA) &nbsp;&nbsp;|&nbsp;&nbsp; 2025.02 - 2026.06
+
+- ARM 아키텍처 기반 임베디드 프로그래밍
+- CXL 기반 장치의 부트로더 및 장치 드라이버 개발
+- 자사 하드웨어의 bring-up 및 TRACE32를 통한 디버깅 경험
+- Python을 활용하여 펌웨어 빌드 환경 구축 및 유지 보수
 
 <span style="font-size: 1.2em">**Firmware Engineer** </span><br>
 파두(FADU) &nbsp;&nbsp;|&nbsp;&nbsp; 2023.05 - 2025.02
@@ -44,17 +49,20 @@ order: 4
   전기 및 전자공학부 - 학사<br>
   2013.03 - 2018.08
 
+* <span style="font-size: 1.2em">**경기북과학고등학교**</span><br>
+  2011.03 - 2013.02
+
 ## Skills
 - <span style="font-size: 1.2em">Programming Language</span>
     - Proficient
         - C
         - Python
     - Intermediate
-      - Rust
-      - JavaScript / TypeScript
-    - Basic
-        - Lua
         - C++
+        - JavaScript / TypeScript
+    - Basic
+        - Rust
+        - Lua
         - CUDA
 
 - <span style="font-size: 1.2em">Library / Framework</span>
