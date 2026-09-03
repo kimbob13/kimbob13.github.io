@@ -18,7 +18,7 @@ order: 4
 ## Work Experience
 
 <span style="font-size: 1.2em">**Firmware Engineer** </span><br>
-엑시나 (XCENA) &nbsp;&nbsp;|&nbsp;&nbsp; 2025.02 - 현재
+엑시나 (XCENA) &nbsp;&nbsp;|&nbsp;&nbsp; 2025.02 - 2026.08
 
 - ARM 아키텍처 기반 임베디드 프로그래밍
 - CXL 기반 장치의 부트로더 및 장치 드라이버 개발
@@ -29,7 +29,7 @@ order: 4
 파두(FADU) &nbsp;&nbsp;|&nbsp;&nbsp; 2023.05 - 2025.02
 
 - NAND 인터페이스 마이크로 코드 기능 개발
-- NAND 인터페이스에서의 SSD 성능 최적화
+- NAND 인터페이스에서의 Gen5 NVMe SSD 성능 최적화
 - NAND 불량 분석을 위한 GUI 프로그램 개발 (Electron.js with Vue.js)
 
 <span style="font-size: 1.2em">**AI Content Developer** </span><br>
@@ -42,7 +42,7 @@ order: 4
 ## Education
 
 * <span style="font-size: 1.2em">**한국과학기술원 (KAIST)**</span><br>
-  산업 및 시스템 공학과 (데이터 사이언스 대학원) - 석사<br>
+  산업 및 시스템 공학과 (지식서비스공학대학원) - 석사<br>
   2019.03 - 2021.02
 
 * <span style="font-size: 1.2em">**한국과학기술원 (KAIST)**</span><br>
